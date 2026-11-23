@@ -2,9 +2,9 @@
 
 Free, copy-and-paste Flutter screens for your next app: **onboarding, e-commerce, chat and profile**. Material 3, light and dark themes, and **no third-party packages**.
 
-![Preview](preview.png)
+![App preview](docs/preview.svg)
 
-*Illustrative preview, drawn to match the kits' design. Run the app to see the real screens.*
+*Preview: design illustration of the screens, in the light theme. Run the app to see the real thing.*
 
 ## Kits
 
